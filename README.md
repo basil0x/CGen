@@ -1,2 +1,2 @@
 # CGen
-Genetic algorythm general purpose skeleton written in C
+Genetic algorythm base written in C
